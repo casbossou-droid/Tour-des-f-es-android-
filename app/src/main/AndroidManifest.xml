@@ -2,6 +2,8 @@
     <application
         android:allowBackup="true"
         android:label="Tour des Fées"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
         <activity
